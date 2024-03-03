@@ -1,0 +1,30 @@
+*, x=0.187, y=0.396, frequency=1, skip=False, adjust=False
+    MoonlightSlash
+*, x=0.33, y=0.396, frequency=1, skip=False, adjust=False
+    MoonlightSlash
+    ThousandSwords
+    ShieldChasing
+*, x=0.47, y=0.396, frequency=1, skip=False, adjust=False
+    MoonlightSlash
+    ShieldChasing
+*, x=.61, y=.396, frequency=1, skip=False, adjust=False
+    MoonlightSlash
+*, x=0.74, y=0.396, frequency=1, skip=False, adjust=False
+    MoonlightSlash
+    Adjust, x=0.79, y=0.396, max_steps=5
+*, x=0.79, y=0.251, frequency=1, skip=False, adjust=False
+    MoonlightSlash
+    ErdaShower
+*, x=0.660, y=0.251, frequency=1, skip=False, adjust=False
+    MoonlightSlash
+    ShieldChasing
+    ThousandSwords
+*, x=0.520, y=0.241, frequency=1, skip=False, adjust=False
+    MoonlightSlash
+    BloodFeast
+*, x=0.35, y=0.241, frequency=1, skip=False, adjust=False
+    MoonlightSlash
+*, x=0.20, y=0.241, frequency=1, skip=False, adjust=False
+    MoonlightSlash
+    ShieldChasing
+    ThousandSwords
