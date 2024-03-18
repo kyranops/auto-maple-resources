@@ -1,0 +1,15 @@
+*, x=0.960, y=0.138, frequency=1, skip=False, adjust=False
+    Sudden_Raid
+*, x=0.742, y=0.182, frequency=1, skip=False, adjust=False
+    Dark_Flare
+    Showdown_Challenge
+*, x=0.453, y=0.187, frequency=1, skip=False, adjust=False
+    Showdown_Challenge
+*, x=0.258, y=0.187, frequency=1, skip=False, adjust=False
+    Showdown_Challenge
+    Wait, duration=0.3
+    Fuma_Shuriken, direction=left, attacks=2, repetitions=1
+*, x=0.591, y=0.116, frequency=1, skip=False, adjust=False
+    Showdown_Challenge
+    Wait, duration=0.3
+    Four_Seasons_Hotel
